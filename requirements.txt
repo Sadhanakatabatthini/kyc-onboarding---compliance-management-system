@@ -1,0 +1,18 @@
+# KYC Onboarding & Compliance Management System Dependencies
+Flask==3.0.3
+Flask-Cors==4.0.1
+Flask-Migrate==4.0.7
+Flask-SQLAlchemy==3.1.1
+SQLAlchemy==2.0.30
+PyMySQL==1.1.0
+cryptography==42.0.7
+pydantic==2.7.1
+pandas==2.2.2
+numpy==1.26.4
+streamlit==1.35.0
+plotly==5.22.0
+requests==2.32.2
+pytest==8.2.1
+python-dotenv==1.0.1
+apispec==6.6.1
+apispec-webframeworks==1.1.0
